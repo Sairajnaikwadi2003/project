@@ -1,6 +1,6 @@
 const wrapper = document.querySelector(".sliderWrapper");
 const menuItems = document.querySelectorAll(".menuItem");
-//this is a change
+//this is a change okay it's done finally
 const products = [
   {
     id: 1,
